@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_resultado">RESULTADO</string>
+    <string name="app_titulo">PROJETO FECAP CCP</string>
+    <string name="enviar_btn">ENVIAR</string>
+    <string name="deletar_btn">DELETAR</string>
+
+
+
+</resources>
